@@ -1,1 +1,2 @@
-Репозиторий с линтером для разработки JS кода.
+Own phone number mask development on Vanilla JS.
+Project is NOT done!

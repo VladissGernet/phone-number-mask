@@ -1,0 +1,30 @@
+body {
+  background-color: #808080;
+  font-family: Arial, sans-serif;
+  font-size: 40px;
+  color: white;
+}
+
+input {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+}
+
+.promo {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.promo label {
+  margin-top: 20vh;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  padding: 10px 20px;
+  color: #000000;
+  border-radius: 24px;
+  border: none;
+}
